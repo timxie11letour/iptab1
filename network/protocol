@@ -1,0 +1,8 @@
+ip|3|false
+ipx|3|false
+tcp|4|false
+udp|4|false
+icmp|4|true
+igmp|4|false
+gre|4|false
+ospf|3|false

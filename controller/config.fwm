@@ -1,0 +1,15 @@
+state_job=true
+version=1.01.01
+state_expire=300
+last_version=2014-10-28-14-24-38
+tcp_server_port=8890
+base_path=/root/workspace/fimas/fw_controller/iptab1
+host=192.168.0.251
+host_ctrl_tcp_server_port=8888
+last_version_md5=5c282565c04dc69f5bd63e9088c0c4fc
+config_expire=86400
+model=iptab1
+os=ubuntu124a
+agentid=1
+type=linux
+host_ctrl_ip=192.168.0.251
